@@ -4,7 +4,7 @@
 !wp-content/
 
 #ignore wp-config.php
-wp-config.php
+!wp-config.php
 
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
