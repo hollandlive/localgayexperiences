@@ -1,4 +1,4 @@
-#example from .gitignore template from github for wordpress
+#example from .gitignore template from github for wordpress...
  
 # ignore everything in the root except the "wp-content" directory.
 !wp-content/
